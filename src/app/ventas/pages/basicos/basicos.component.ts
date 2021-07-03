@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class BasicosComponent {
 
+  nombre: string = 'MaTeo cAStro HeNAO';
   fecha: Date = new Date();
   
 }
